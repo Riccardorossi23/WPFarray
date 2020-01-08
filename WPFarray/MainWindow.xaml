@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:WPFarray"
         mc:Ignorable="d"
         Title="MainWindow" Height="298.78" Width="450">
+    
     <Grid>
         <Button x:Name="btnInserisci" Content="Inserisci" HorizontalAlignment="Left" Height="23" Margin="239,35,0,0" VerticalAlignment="Top" Width="73" Click="btnInserisci_Click"/>
         <TextBox x:Name="txtInserisci"  HorizontalAlignment="Left" Height="23" Margin="111,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="81"/>

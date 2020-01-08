@@ -56,6 +56,7 @@ namespace WPFarray
             {
                 w.WriteLine($"-{i + 1}°  messaggio: {frasi[i]} \n");
             }
+
             w.Flush();
             w.Close();
 
